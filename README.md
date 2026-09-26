@@ -1,15 +1,6 @@
 # Mobile Number Analyzer
 Coded by Cyber Security Engineer Mr Sabaz Ali Khan
 
-Offline Ruby terminal utility. This is a number-format analyzer, NOT a live phone tracker.
-No external gems, API keys or internet required after Ruby installation.
-
-## Start
-Install Ruby from https://rubyinstaller.org/downloads/ on Windows, with PATH enabled.
-Extract the ZIP, open a terminal inside this folder, then:
-
-    ruby -v
-    ruby mobile_analyzer.rb
 
 On Kali Linux, if Ruby is missing:
 
@@ -59,9 +50,4 @@ The small table is static and is not a live telecom database.
 The delivery environment did not have Ruby installed, so Ruby execution could not
 be verified there. Run the included checks on your machine:
 
-    ruby test_analyzer.rb
-
-## Roman Urdu quick guide
-ZIP extract karein. Folder mein terminal kholein aur `ruby mobile_analyzer.rb`
-chalayein. Pakistani 03 wale number ke liye menu mein 2 select karein.
-Ye basic number information hai; live location tracking nahi hai.
+    
